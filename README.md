@@ -1,5 +1,5 @@
 # Build and Deploy: Flutter application
-This is a repository for a Flutter application
+This is a repository for a Flutter application CoinView is an easy-to-use cryptocurrency tracking app. It allows you to see real-time prices of different cryptocurrencies, as well as charts and detailed information on each currency.
 
 <h1 align="center">
   SAWADOGO Badini Ibrahim
